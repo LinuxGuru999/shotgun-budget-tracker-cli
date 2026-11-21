@@ -1,0 +1,23 @@
+{
+  "overview": "Budget Tracker CLI is a lightweight, local-first Python script designed for minimalists and terminal power users who want to log expenses without bloated apps or monthly subscriptions. It gives you direct ownership of your financial data by storing everything in a simple CSV file right on your machine.",
+  "usecases": [
+    "Quickly logging a morning coffee or lunch expense without opening a browser or mobile app",
+    "Running a monthly spending summary directly in your terminal to see where your money went",
+    "Reviewing category totals to identify and cut back on unnecessary subscriptions or dining out"
+  ],
+  "howto": [
+    "Download the Python script to your local machine",
+    "Open your terminal and run the script with your expense details",
+    "View your generated reports and category breakdowns instantly"
+  ],
+  "faq": [
+    {
+      "q": "Do I need to pay for a subscription or connect my bank account?",
+      "a": "No, it is a 100 percent free, offline script that uses manual CSV entry for maximum privacy."
+    },
+    {
+      "q": "Is this suitable for complex business accounting or tax preparation?",
+      "a": "No, it is strictly built for personal, day-to-day expense tracking and basic categorization."
+    }
+  ]
+}
