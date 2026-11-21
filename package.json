@@ -1,0 +1,8 @@
+{
+  "name": "budget-tracker-cli",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node budget-tracker-cli.js"
+  }
+}
