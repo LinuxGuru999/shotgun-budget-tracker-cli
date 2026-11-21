@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Habit Tracker Template",
+    "url": "https://LinuxGuru999.github.io/shotgun-library/products/habit-tracker-template/",
+    "tagline": "A simple habit tracker with streaks and reflections"
+  },
+  {
+    "name": "Renewal Tracker Template",
+    "url": "https://LinuxGuru999.github.io/shotgun-library/products/renewal-tracker-template/",
+    "tagline": "Never miss a subscription renewal again"
+  },
+  {
+    "name": "Packing List Generator",
+    "url": "https://LinuxGuru999.github.io/shotgun-library/products/packing-list-generator/",
+    "tagline": "Generate a packing list by trip type and duration"
+  }
+]
